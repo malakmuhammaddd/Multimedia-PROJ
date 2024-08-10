@@ -1,0 +1,9 @@
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\bin\Debug\Mini Proj.exe.config
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\bin\Debug\Mini Proj.exe
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\bin\Debug\Mini Proj.pdb
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\obj\Debug\Mini Proj.csproj.AssemblyReference.cache
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\obj\Debug\Mini_Proj.Properties.Resources.resources
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\obj\Debug\Mini Proj.csproj.GenerateResource.cache
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\obj\Debug\Mini Proj.csproj.CoreCompileInputs.cache
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\obj\Debug\Mini Proj.exe
+D:\MULTIMEDIA\MiniProj\Mini Proj\Mini Proj\obj\Debug\Mini Proj.pdb

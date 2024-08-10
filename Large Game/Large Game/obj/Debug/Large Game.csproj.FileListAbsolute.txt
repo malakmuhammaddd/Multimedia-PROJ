@@ -1,0 +1,9 @@
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\bin\Debug\Large Game.exe.config
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\bin\Debug\Large Game.exe
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\bin\Debug\Large Game.pdb
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\obj\Debug\Large Game.csproj.AssemblyReference.cache
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\obj\Debug\Large_Game.Properties.Resources.resources
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\obj\Debug\Large Game.csproj.GenerateResource.cache
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\obj\Debug\Large Game.csproj.CoreCompileInputs.cache
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\obj\Debug\Large Game.exe
+D:\MULTIMEDIA\Large Game\Large Game\Large Game\obj\Debug\Large Game.pdb
